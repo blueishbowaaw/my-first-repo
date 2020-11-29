@@ -1,2 +1,2 @@
 # my-first-repo
-Answering couple of cases about Programming in R and Python 
+Hi this are my codes about answering couple of cases in R and Python Programming Data
